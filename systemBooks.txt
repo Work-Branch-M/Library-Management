@@ -1,2 +1,0 @@
-101,The Great Gatsby,Fiction
-102,Data Structures,Education
