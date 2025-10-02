@@ -1,3 +1,0 @@
-admin1,12345,
-admin2,password,
-manager,manager123,
